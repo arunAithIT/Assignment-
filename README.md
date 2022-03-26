@@ -1,9 +1,3 @@
-# Gilded Rose Refactoring Kata
-[![Maintainability](https://api.codeclimate.com/v1/badges/87660394a61216e8705b/maintainability)](https://codeclimate.com/github/Sindex42/gilded-rose-js/maintainability)
-
-My interpretation of the [Gilded Rose refactoring kata](https://github.com/emilybache/GildedRose-Refactoring-Kata).
-
-![Imgur](http://i.imgur.com/zWP8UPe.png)
 
 ## Getting started
 
@@ -23,7 +17,7 @@ My interpretation of the [Gilded Rose refactoring kata](https://github.com/emily
 
 - Made a flowchart to solidify my understanding of the flow of data through the program before starting
 
-![Imgur](https://i.imgur.com/fADl9Z5.png)
+
 
 
 ### Refactoring
